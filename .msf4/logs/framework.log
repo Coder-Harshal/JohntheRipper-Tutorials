@@ -1,0 +1,90 @@
+[11/23/2023 23:03:18] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/23/2023 23:03:18] [d(0)] core: Created user based module store
+[11/23/2023 23:03:26] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module generic/custom is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module generic/shell_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:20:27] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:22:36] [d(0)] core: HistoryManager.push_context name: :shell
+[11/23/2023 23:22:58] [d(0)] core: HistoryManager.pop_context name: :shell
+[11/23/2023 23:23:06] [d(0)] core: HistoryManager.push_context name: :shell
+[11/23/2023 23:24:13] [d(0)] core: HistoryManager.pop_context name: :shell
+[11/23/2023 23:24:16] [d(0)] core: HistoryManager.push_context name: :shell
+[11/23/2023 23:24:50] [d(0)] core: HistoryManager.pop_context name: :shell
+[11/23/2023 23:25:15] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/23/2023 23:30:36] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/23/2023 23:30:40] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module generic/custom is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module generic/shell_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:34:59] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/23/2023 23:36:48] [d(0)] core: HistoryManager.push_context name: :shell
+[11/23/2023 23:37:26] [d(0)] core: HistoryManager.pop_context name: :shell
+[11/23/2023 23:44:09] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/23/2023 23:44:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/23/2023 23:44:25] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/24/2023 00:08:23] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/24/2023 00:22:05] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/24/2023 00:22:08] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:00] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:01] [d(0)] core: Module generic/custom is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:01] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:01] [d(0)] core: Module generic/shell_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:23:01] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[11/24/2023 00:24:31] [d(0)] core: HistoryManager.push_context name: :shell
+[11/24/2023 00:28:11] [d(0)] core: HistoryManager.pop_context name: :shell
+[11/24/2023 00:28:19] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/24/2023 00:32:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/24/2023 00:32:25] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/24/2023 01:10:00] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[12/13/2023 16:35:29] [e(0)] core: Failed to connect to the database: No database YAML file
+[12/13/2023 16:35:40] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:56] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:57] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:57] [d(0)] core: Module generic/custom is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:57] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:57] [d(0)] core: Module generic/shell_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:39:57] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[12/13/2023 16:41:06] [e(0)] core: Exploit failed (unix/ftp/vsftpd_234_backdoor): Rex::ConnectionRefused The connection was refused by the remote host (192.168.244.128:21). - Rex::ConnectionRefused The connection was refused by the remote host (192.168.244.128:21).
+[12/13/2023 16:44:30] [d(0)] core: HistoryManager.pop_context name: :msfconsole
